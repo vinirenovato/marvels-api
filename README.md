@@ -4,6 +4,7 @@ Projeto de automação de testes de APIs Rest, desenvolvido para o teste de aval
  - Ruby
  - Cucumber
  - HTTParty
+ - RSPec
  
  ## 1.1. PRE REQUISITO DO PROJETO
  Ter instalado na máquina a versão do ruby mais recente
